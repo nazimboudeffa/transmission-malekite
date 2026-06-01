@@ -1,0 +1,122 @@
+Arbre simplifié de transmission de l'école malikite
+Imâm Mâlik ibn Anas (93-179 H)
+│
+├── Ibn Wahb (125-197 H)
+│   ├── Asbagh ibn al-Faraj (150-225 H)
+│   └── Sahnûn (160-240 H)
+│
+├── Ibn al-Qâsim (132-191 H)
+│   ├── Asad ibn Furât (142-213 H)
+│   ├── 'Îsâ ibn Dînâr (m. 212 H)
+│   ├── Sahnûn (160-240 H)
+│   └── Asbagh ibn al-Faraj (150-225 H)
+│
+├── Ashhab (140-204 H)
+│   ├── Sahnûn (160-240 H)
+│   └── Asbagh ibn al-Faraj (150-225 H)
+│
+└── Yahyâ ibn Yahyâ al-Laythî (m. 234 H)
+    │
+    └── Diffusion du Muwatta' en Andalousie
+
+Branche d'Ifriqiya (Tunisie, Maghreb)
+Imâm Mâlik
+│
+└── Ibn al-Qâsim
+    │
+    └── Sahnûn
+        │
+        └── Al-Mudawwana al-Kubrâ
+            │
+            └── Ibn Abî Zayd al-Qayrawânî (310-386 H)
+                │
+                ├── Al-Qâdî 'Iyâd (476-544 H)
+                │
+                ├── Al-Qarâfî (626-684 H)
+                │
+                ├── Ibn 'Arafa (716-803 H)
+                │
+                └── Khalîl ibn Ishâq (m. 767/776 H)
+                    │
+                    └── Mukhtasar Khalîl
+                        │
+                        ├── Ahmad Zarrouq (846-899 H)
+                        ├── Al-Wansharisî (834-914 H)
+                        ├── Al-Akhdarî (1512-1575)
+                        └── Les savants malikites modernes du Maghreb
+
+Branche andalouse
+Imâm Mâlik
+│
+├── Yahyâ ibn Yahyâ al-Laythî
+│
+├── Ibn al-Qâsim
+│
+└── Ibn Wahb
+    │
+    └── Ibn Habîb (170-238 H)
+        │
+        └── Al-'Utbî (m. 255 H)
+            │
+            └── Ibn 'Abd al-Barr (368-463 H)
+                │
+                └── Ibn al-'Arabî (468-543 H)
+                    │
+                    └── Ibn Rushd (520-595 H)
+                        │
+                        ├── Al-Qurtubî (m. 671 H)
+                        ├── Ibn Juzayy (693-741 H)
+                        └── Ash-Shâtibî (m. 790 H)
+
+Arbre des ouvrages fondamentaux du madhhab
+Imâm Mâlik
+│
+└── Al-Muwatta'
+    │
+    ├── Transmission de Yahyâ al-Laythî
+    │
+    ├── Transmission d'Ibn Wahb
+    │
+    └── Transmission d'Ashhab
+         │
+         ▼
+Ibn al-Qâsim
+│
+▼
+Sahnûn
+│
+└── Al-Mudawwana al-Kubrâ
+     │
+     ├── Mukhtasar al-Mudawwana
+     │    (Ibn Abî Zayd)
+     │
+     ├── An-Nawâdir wa az-Ziyâdât
+     │    (Ibn Abî Zayd)
+     │
+     ├── Al-Wâdiha
+     │    (Ibn Habîb)
+     │
+     ├── Al-'Utbiyya
+     │    (Al-'Utbî)
+     │
+     └── Mukhtasar Khalîl
+          │
+          ├── At-Tâj wa al-Iklîl
+          ├── Mawâhib al-Jalîl
+          ├── Sharh al-Khurashî
+          └── Hâshiyat ad-Dasûqî
+
+Résumé en une ligne
+Mâlik
+  ↓
+Ibn al-Qâsim
+  ↓
+Sahnûn
+  ↓
+Ibn Abî Zayd
+  ↓
+Al-Qâdî 'Iyâd / Al-Qarâfî
+  ↓
+Khalîl
+  ↓
+Les grands commentateurs maghrébins
